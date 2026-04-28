@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/clawdbot-ai-awesome-openclaw-skills-zh-badge.png)](https://mseep.ai/app/clawdbot-ai-awesome-openclaw-skills-zh)
+
 # Awesome OpenClaw Skills (中文官方库)
 > 翻译自 [Clawdbot 官方技能库](https://clawdhub.com/skills)，持续同步更新。
 > 所有技能已适配中文指令，可直接在 OpenClaw 中调用（支持 QQ/企业微信/飞书/钉钉/本地客户端）。
