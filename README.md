@@ -1484,3 +1484,5 @@
 # 从 OpenClaw 官方库安装技能
 openclaw skill install https://clawdhub.com/skills/[技能]
 ```
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time AI Agent Monitoring Dashboard for OpenClaw（支持 token 用量、会话追踪、7 天趋势）
