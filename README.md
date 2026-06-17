@@ -4396,7 +4396,7 @@
 
 ## 7、💬 通讯协作
 
-> 该分类共 **1,389** 个技能，以下按下载量倒序展示 Top 100。
+> 该分类共 **1,390** 个技能，以下按下载量倒序展示 Top 100。
 
 <table style="table-layout: fixed; width: 100%;">
 <colgroup>
@@ -4416,6 +4416,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td align="center" style="width: 48px;">新增</td>
+<td style="width: 120px; max-width: 120px; word-wrap: break-word; overflow-wrap: anywhere;">Sequenzy 邮件营销</td>
+<td style="width: 160px; max-width: 160px; word-wrap: break-word; overflow-wrap: anywhere;">Sequenzy Email Marketing 🔑</td>
+<td style="width: 140px; max-width: 140px; word-wrap: break-word; overflow-wrap: anywhere;"><a href="https://clawhub.ai/polnikale/sequenzy-email-marketing">ClawHub/sequenzy-email-marketing</a></td>
+<td>面向 AI 智能体的授权邮件自动化：订阅者、分组、模板、活动、事务邮件与分析。适用于生命周期、活动和事务邮件工作流，不面向垃圾邮件或冷群发。</td>
+</tr>
 <tr>
 <td align="center" style="width: 48px;">1</td>
 <td style="width: 120px; max-width: 120px; word-wrap: break-word; overflow-wrap: anywhere;">imapsmtp邮件</td>
