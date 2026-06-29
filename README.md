@@ -527,6 +527,13 @@
 </tr>
 <tr>
 <td align="center" style="width: 48px;">70</td>
+<td style="width: 120px; max-width: 120px; word-wrap: break-word; overflow-wrap: anywhere;">BrowserAct</td>
+<td style="width: 160px; max-width: 160px; word-wrap: break-word; overflow-wrap: anywhere;">BrowserAct</td>
+<td style="width: 140px; max-width: 140px; word-wrap: break-word; overflow-wrap: anywhere;"><a href="https://github.com/browser-act/skills">browser-act/skills</a></td>
+<td>面向 AI agent 的浏览器自动化 CLI，可用于浏览器任务与 anti-bot 场景。</td>
+</tr>
+<tr>
+<td align="center" style="width: 48px;">70</td>
 <td style="width: 120px; max-width: 120px; word-wrap: break-word; overflow-wrap: anywhere;">代理council</td>
 <td style="width: 160px; max-width: 160px; word-wrap: break-word; overflow-wrap: anywhere;">Agent Council 🔑</td>
 <td style="width: 140px; max-width: 140px; word-wrap: break-word; overflow-wrap: anywhere;"><a href="https://clawdhub.com/skills/agent-council">ClawHub/agent-council</a></td>
