@@ -5156,3 +5156,7 @@ openclaw skill install self-improving-agent
 ### 贡献与反馈
 
 如发现技能描述有误或希望补充新技能，欢迎提交 Issue 或 Pull Request。
+
+
+## Related Resources
+- [Skill Hub](https://skill.442595.xyz/) — 5800+ curated AI Agent Skills for Claude Code, Codex, Cursor, Hermes & more across 22 categories.
