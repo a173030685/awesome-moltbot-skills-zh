@@ -5152,6 +5152,7 @@ openclaw skill install self-improving-agent
 - 技能列表：[ClawHub](https://clawdhub.com/skills)
 - 排序规则：各分类内按 **下载量（downloads）** 倒序
 - 同步范围：每个分类 Top 100，共 700 条精选技能
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
 
 ### 贡献与反馈
 
