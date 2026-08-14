@@ -1108,6 +1108,13 @@
 <td>通过6551 API获取Twitter/X数据。支持用户资料、推文搜索、用户推文、关注者事件、已删除推文及KOL关注者。</td>
 </tr>
 <tr>
+<td align="center" style="width: 48px;">48a</td>
+<td style="width: 120px; max-width: 120px; word-wrap: break-word; overflow-wrap: anywhere;">Xquik X/Twitter 数据平台</td>
+<td style="width: 160px; max-width: 160px; word-wrap: break-word; overflow-wrap: anywhere;">x-twitter-scraper 🔑</td>
+<td style="width: 140px; max-width: 140px; word-wrap: break-word; overflow-wrap: anywhere;"><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik-dev/x-twitter-scraper</a></td>
+<td>X/Twitter 工作流技能，用于搜索推文、查看用户、导出关注者、监控账号、运行抽奖，并通过 Xquik REST API 与 MCP 工具接入。需要 XQUIK_API_KEY。</td>
+</tr>
+<tr>
 <td align="center" style="width: 48px;">49</td>
 <td style="width: 120px; max-width: 120px; word-wrap: break-word; overflow-wrap: anywhere;">opennews</td>
 <td style="width: 160px; max-width: 160px; word-wrap: break-word; overflow-wrap: anywhere;">opennews 🔑</td>
