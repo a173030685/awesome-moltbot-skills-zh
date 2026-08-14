@@ -14,7 +14,7 @@
 - [💬 通讯协作](#cat-communication-collaboration)
 - [使用说明](#使用说明)
 
-![1a2e48234521390f158464923b85e716](https://github.com/user-attachments/assets/9392f324-e620-440f-ad28-0e17dbdd5e46)
+<img width="750" height="1058" alt="331db256089f4106e6c84db5d4c513e2" src="https://github.com/user-attachments/assets/c974c4a6-2dcf-43e0-bf53-c0ea54891f85" />
 
 ---
 
