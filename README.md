@@ -365,6 +365,13 @@
 <td>利用提示工程、风格控制和智能编辑，借助GPT Image、Gemini Nano Banana、FLUX、Imagen等顶级服务商创作AI图像。</td>
 </tr>
 <tr>
+<td align="center" style="width: 48px;">—</td>
+<td style="width: 120px; max-width: 120px; word-wrap: break-word; overflow-wrap: anywhere;">RunAPI MCP</td>
+<td style="width: 160px; max-width: 160px; word-wrap: break-word; overflow-wrap: anywhere;">RunAPI MCP Server</td>
+<td style="width: 140px; max-width: 140px; word-wrap: break-word; overflow-wrap: anywhere;"><a href="https://github.com/runapi-ai/mcp">runapi-ai/mcp</a></td>
+<td>130+ AI 模型聚合 MCP Server，覆盖图像、视频、音乐、音频、LLM 五大模态，18 个供应商。8 个工具，免费浏览无需 API key。npm: @runapi.ai/mcp</td>
+</tr>
+<tr>
 <td align="center" style="width: 48px;">47</td>
 <td style="width: 120px; max-width: 120px; word-wrap: break-word; overflow-wrap: anywhere;">AI新闻采集器</td>
 <td style="width: 160px; max-width: 160px; word-wrap: break-word; overflow-wrap: anywhere;">ai-news-collectors</td>
